@@ -11,15 +11,19 @@ This project involves the construction of a Logistic Regression model to recogni
 **Visualization:** Matplotlib (for image and confusion matrix visualization)<br>
 **Performance Evaluation:** Confusion Matrix<br>
 
-## Getting Started
+## Installation
 
-These instructions will guide you on how to run the project on your local machine.
-
-### Prerequisites
+1. Clone this repository:
+```
+git clone https://github.com/yourusername/Handwriting-Digit-Recognition.git
+```
+2. Navigate to the project directory:
+```
+cd Handwriting-Digit-Recognition
+```
+3. Install the necessary Python packages:
 
 The project requires Python and the following Python libraries installed:
-
-
 
 You can install these packages via pip:
 
