@@ -22,11 +22,6 @@ git clone https://github.com/yourusername/Handwriting-Digit-Recognition.git
 cd Handwriting-Digit-Recognition
 ```
 3. Install the necessary Python packages:
-
-The project requires Python and the following Python libraries installed:
-
-You can install these packages via pip:
-
 ```
 pip install numpy matplotlib scikit-learn
 ```
